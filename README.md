@@ -95,7 +95,8 @@ def mc_control(env, gamma=1.0,
 ### Name: SANJAI  U
 ### Register Number: 212224240145
 
-<img width="862" height="282" alt="image" src="https://github.com/user-attachments/assets/f4c4b832-6bdc-430f-98f6-2ea9b446a2f6" />
+<img width="1077" height="326" alt="image" src="https://github.com/user-attachments/assets/9575482e-57d9-4f75-bc30-85e0a6e77878" />
+
 
 
 ## RESULT:
